@@ -1,0 +1,6 @@
+asyncio>=3.4.3
+python-dotenv>=1.0.0
+openai>=1.6.0
+pydantic>=2.5.2
+requests>=2.31.0
+tiktoken>=0.5.2 
